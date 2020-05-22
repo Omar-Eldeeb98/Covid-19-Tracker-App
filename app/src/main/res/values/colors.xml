@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#0C0C0C</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#4CAF50</color>
+
+    <color name="color_one">#F81403</color>
+    <color name="color_white">#ededf2</color>
+    <color name="color_two">#E3E0E0</color>
+
+
+
+    <color name="cases">#FFC107</color>
+    <color name="recovered">#4CAF50</color>
+    <color name="deaths">#C60C09</color>
+    <color name="active">#0FA3E6</color>
+
+
+</resources>
