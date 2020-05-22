@@ -6,7 +6,7 @@
 <img src = "Images/img5%20(1).jpg" width ="200" heigh = "500">
 
 # description
-simple corona virus tracker app use web services api , updated automatichaly , with Effective Ui.
+Covid-19 Tracker is a Simple app that watch and track corona virus state in the whole world and in countries , app depend on web service & API to show the data .
 
 # API
 https://corona.lmao.ninja/
