@@ -1,9 +1,11 @@
-# Images 
+# Ui 
 <img src = "Images/img2%20(2).jpg" width ="200" heigh = "500">,
-<img src = "Images/img2%20(1).jpg" width ="200" heigh = "500">,
-<img src = "Images/img3.jpg" width ="200" heigh = "500">,
-<img src = "Images/img5%20(2).jpg" width ="200" heigh = "500">,
-<img src = "Images/img5%20(1).jpg" width ="200" heigh = "500">
+<img src = "Images/1.jpg" width ="200" heigh = "500">,
+<img src = "Images/2.jpg" width ="200" heigh = "500">,
+<img src = "Images/3.jpg" width ="200" heigh = "500">,
+<img src = "Images/4.jpg" width ="200" heigh = "500">,
+<img src = "Images/5.jpg" width ="200" heigh = "500">,
+<img src = "Images/6.jpg" width ="200" heigh = "500">,
 
 # description
 Covid-19 Tracker is a Simple app that watch and track corona virus state in the whole world and in countries , app depend on web service & API to show the data .
